@@ -1,0 +1,5 @@
+customer_id,region,order_id
+A,north,O1
+A,north,O2
+B,south,O3
+,south,O4

@@ -1,0 +1,10 @@
+name: Bug report
+description: Report a reproducible problem using synthetic inputs
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal synthetic reproduction
+      description: Include command, expected result, actual result and Python/OS versions. No private data.
+    validations:
+      required: true
